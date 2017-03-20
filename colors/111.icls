@@ -1,0 +1,99 @@
+<scheme name="111" version="142" parent_scheme="Darcula">
+  <option name="LINE_SPACING" value="1.1" />
+  <option name="EDITOR_FONT_SIZE" value="13" />
+  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
+  <option name="CONSOLE_LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+  <attributes>
+    <option name="CLASS_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="ccbe6" />
+      </value>
+    </option>
+    <option name="CUSTOM_STRING_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="a3c688" />
+      </value>
+    </option>
+    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="bcba98" />
+      </value>
+    </option>
+    <option name="DEFAULT_BRACES">
+      <value>
+        <option name="FOREGROUND" value="7ffc7" />
+      </value>
+    </option>
+    <option name="DEFAULT_FUNCTION_DECLARATION">
+      <value>
+        <option name="FOREGROUND" value="f4ffe3" />
+      </value>
+    </option>
+    <option name="HTML_TAG">
+      <value>
+        <option name="FOREGROUND" value="13e8e2" />
+      </value>
+    </option>
+    <option name="HTML_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="e89815" />
+      </value>
+    </option>
+    <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="bd199a" />
+        <option name="EFFECT_COLOR" value="bd199a" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="INSTANCE_FIELD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="a1d2ab" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="INTERFACE_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="edfdff" />
+      </value>
+    </option>
+    <option name="JAVA_BRACES">
+      <value>
+        <option name="FOREGROUND" value="e89815" />
+      </value>
+    </option>
+    <option name="JAVA_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="2e834" />
+      </value>
+    </option>
+    <option name="JAVA_PARENTH">
+      <value>
+        <option name="FOREGROUND" value="e89815" />
+      </value>
+    </option>
+    <option name="LOCAL_VARIABLE_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="fbffff" />
+      </value>
+    </option>
+    <option name="PARAMETER_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="379bcb" />
+      </value>
+    </option>
+    <option name="STATIC_FIELD_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="fffc89" />
+        <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="f8fffd" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

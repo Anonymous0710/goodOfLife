@@ -1,0 +1,5 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="KOTLIN_BUNDLED" value="C:\Users\The Best\.AndroidStudio2.1\config\plugins\Kotlin\kotlinc" />
+  </component>
+</application>

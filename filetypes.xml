@@ -1,0 +1,8 @@
+<application>
+  <component name="FileTypeManager" version="16">
+    <extensionMap>
+      <mapping pattern="menu" type="Android Nine-Patch" />
+      <mapping pattern="option_menu" type="XML" />
+    </extensionMap>
+  </component>
+</application>
