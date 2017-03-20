@@ -1,2 +1,0 @@
-# goodOfLife
-this is boook
